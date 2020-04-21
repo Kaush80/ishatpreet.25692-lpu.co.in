@@ -8,8 +8,7 @@ Stereo reconstruction using OpenCV 3.4.4 and python 3.4
 4. Run: python calibrate.py
 5. then paste the left and right images as left2 and right2 in reconstruct_this folder inside reconstruction
 6. Run: python disparity.py
-7. Run:python -m http.server
-8. open link http://localhost:8000/ in browser and open index_no_tools
+7. open index_no_tools (Microsoft Edge)
 
 
 calibration script is:
