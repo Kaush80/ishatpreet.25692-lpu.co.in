@@ -1,0 +1,6 @@
+Python 3.7.1
+OpenCV 3.4.4
+Numpy
+Glob
+tqdm
+Pillow 
